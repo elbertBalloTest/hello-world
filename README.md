@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+Hello, My Name is Elbert and I am experiementing with github. 
